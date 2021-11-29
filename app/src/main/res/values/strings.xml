@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">word장</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="Day1_word">
+        <item>résumé</item>
+        <item>opening</item>
+        <item>applicant</item>
+        <item>requirement</item>
+        <item>meet</item>
+        <item>qualified</item>
+        <item>candidate</item>
+        <item>confidence</item>
+        <item>highly</item>
+        <item>professional</item>
+        <item>interview</item>
+        <item>hire</item>
+        <item>training</item>
+        <item>reference</item>
+        <item>position</item>
+        <item>achievement</item>
+        <item>impressed</item>
+        <item>excellent</item>
+        <item>eligible</item>
+        <item>identify</item>
+        <item>associate</item>
+        <item>condition</item>
+        <item>employment</item>
+        <item>lack</item>
+        <item>managerial</item>
+        <item>diligent</item>
+        <item>familiar</item>
+        <item>proficiency</item>
+        <item>prospective</item>
+        <item>appeal</item>
+        <item>specialize</item>
+        <item>apprehensive</item>
+        <item>consultant</item>
+        <item>entitle</item>
+        <item>degree</item>
+        <item>payroll</item>
+        <item>recruit</item>
+        <item>certification</item>
+        <item>occupation</item>
+        <item>wage</item>
+    </string-array>
+
+    <string-array name="Day1_meaning">
+        <item>이력서</item>
+        <item>공석, 결원; 개장, 개시</item>
+        <item>지원자, 신청자</item>
+        <item>필요조건, 요건</item>
+        <item>(필요, 요구 등을)만족시키다</item>
+        <item>자격 있는, 적격의</item>
+        <item>후보자, 지원자</item>
+        <item>확신, 자신, 신임</item>
+        <item>매우, 대단히</item>
+        <item>전문적인, 직업의</item>
+        <item>면접, 면접을 보다</item>
+        <item>고용하다</item>
+        <item>교육, 훈련</item>
+        <item>추천서; 참고</item>
+        <item>일자리, 직책, 두다</item>
+        <item>성취, 달성</item>
+        <item>인상 깊게 생각하는, 감명을 받은</item>
+        <item>훌륭한, 탁월한</item>
+        <item>자격이 있는, 적격의</item>
+        <item>알아보다, 확인하다</item>
+        <item>관련시키다</item>
+        <item>조건</item>
+        <item>고용</item>
+        <item>~이 없다, 부족</item>
+        <item>관리의</item>
+        <item>성실한</item>
+        <item>익숙한, 친숙한</item>
+        <item>숙달, 능숙</item>
+        <item>장래의, 미래의</item>
+        <item>관심을 끌다, 매력적이다</item>
+        <item>~을 전공하다, 전문적으로 다루다</item>
+        <item>걱정하는, 염려하는</item>
+        <item>고문, 컨설턴트</item>
+        <item>자격을 주다</item>
+        <item>학위</item>
+        <item>임금 대장, 급료 명부</item>
+        <item>모집하다</item>
+        <item>모집하다</item>
+        <item>직업</item>
+        <item>임금, 급료</item>
+    </string-array>
+</resources>
