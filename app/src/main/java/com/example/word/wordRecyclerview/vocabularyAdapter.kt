@@ -11,8 +11,7 @@ import com.example.word.R
 class vocabularyAdapter(val vocaList : ArrayList<vocabularyItems>):
     RecyclerView.Adapter<vocabularyAdapter.VocaViewHolder>() {
 
-    private var callbackListener: ClickCallbackListener? = null
-
+    val callbackListener : ClickCallBackListener? = null
 //    val callbackListener = ClickCallbackListener { pos ->
 //        val intent = Intent(holder.itemView.context, vocabularyActivity::class.java).putExtra("data",pos)
 //        ContextCompat.startActivity(holder.itemView.context, intent, null)
@@ -30,7 +29,6 @@ class vocabularyAdapter(val vocaList : ArrayList<vocabularyItems>):
         holder.number.text = vocaList.get(position).number.toString()
         holder.word.text = vocaList.get(position).word
         holder.mean.text = vocaList.get(position).mean
-        holder.value.text = vocaList.get(position).value
     }
 
     override fun getItemCount(): Int {
@@ -41,6 +39,5 @@ class vocabularyAdapter(val vocaList : ArrayList<vocabularyItems>):
         val number = itemView.findViewById<TextView>(R.id.voca_number)
         val word = itemView.findViewById<TextView>(R.id.voca_word)
         val mean = itemView.findViewById<TextView>(R.id.voca_mean)
-        val value = itemView.findViewById<TextView>(R.id.voca_value)
     }
 }

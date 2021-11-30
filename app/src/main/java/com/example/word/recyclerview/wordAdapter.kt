@@ -14,17 +14,11 @@ import com.example.word.wordRecyclerview.vocabularyActivity
 
 // 단어 탭의 프라그먼트 리사이클러뷰
 class wordAdapter(val adapterList: ArrayList<WordItems>) : RecyclerView.Adapter<wordAdapter.CustomViewHolder>(){   // worditems 의 아이템들을 arraylist화, recyclerview의 adapter 상속
-    private var callbackListener: ClickCallbackListener? = null
     // xml 화면을 연결하는 곳
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): wordAdapter.CustomViewHolder {
         // activity_recycler_view 을 가져와 어댑터에 붙임
         val view = LayoutInflater.from(parent.context).inflate(R.layout.activity_recycler_view, parent, false)  // context : activity의 모든 정보
         return CustomViewHolder(view)
-    }
-
-    //메인액티비티에서 전달 받은 콜백메서드를 set 하는 메서드
-    fun setCallbackListener(callbackListener: ClickCallbackListener?) {
-        this.callbackListener = callbackListener
     }
 
     // onCreateViewHolder 을 사용

@@ -7,15 +7,9 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.word.MainPage
 import com.example.word.R
-import com.example.word.recyclerview.wordAdapter
 import kotlinx.android.synthetic.main.activity_vocabulary.*
-import java.util.ArrayList
 
 class vocabularyActivity : AppCompatActivity() {
-
-    val wordList = resources.getStringArray(R.array.Day1_word)
-    val meaningList = resources.getStringArray(R.array.Day1_meaning)
-    lateinit var stringItem: ArrayList<vocabularyItems>
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -26,12 +20,16 @@ class vocabularyActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        for (i in wordList.indices) {
-            stringItem[i] = vocabularyItems(i,wordList[i],meaningList[i],"[n]")
-        }
-
+        val wordList : Array<String> = resources.getStringArray(R.array.Day1_word)
+        val meaningList : Array<String> = resources.getStringArray(R.array.Day1_meaning)
         val recyclerview: RecyclerView = findViewById(R.id.voca_recyclerview)
+
+        val mylist = arrayListOf<vocabularyItems>()
+        for (i in 0 until  wordList.size) {
+            val data = vocabularyItems(i+1,wordList[i],meaningList[i])
+            mylist.add(data)
+        }
         recyclerview.layoutManager = LinearLayoutManager(this)
-        recyclerview.adapter = vocabularyAdapter(stringItem)
+        recyclerview.adapter = vocabularyAdapter(mylist)
     }
 }
