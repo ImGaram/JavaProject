@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.word.MainPage
 import com.example.word.R
+import com.example.word.recyclerview.WordItems
 import kotlinx.android.synthetic.main.activity_vocabulary.*
 
 class vocabularyActivity : AppCompatActivity() {
@@ -20,12 +21,12 @@ class vocabularyActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        val wordList : Array<String> = resources.getStringArray(R.array.Day1_word)
+        val wordList : Array<String> = resources.getStringArray(R.array.Day01Word)
         val meaningList : Array<String> = resources.getStringArray(R.array.Day1_meaning)
         val recyclerview: RecyclerView = findViewById(R.id.voca_recyclerview)
 
         val mylist = arrayListOf<vocabularyItems>()
-        for (i in 0 until  wordList.size) {
+        for (i in 0 until wordList.size) {
             val data = vocabularyItems(i+1,wordList[i],meaningList[i])
             mylist.add(data)
         }

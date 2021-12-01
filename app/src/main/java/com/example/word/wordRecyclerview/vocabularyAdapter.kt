@@ -11,12 +11,6 @@ import com.example.word.R
 class vocabularyAdapter(val vocaList : ArrayList<vocabularyItems>):
     RecyclerView.Adapter<vocabularyAdapter.VocaViewHolder>() {
 
-    val callbackListener : ClickCallBackListener? = null
-//    val callbackListener = ClickCallbackListener { pos ->
-//        val intent = Intent(holder.itemView.context, vocabularyActivity::class.java).putExtra("data",pos)
-//        ContextCompat.startActivity(holder.itemView.context, intent, null)
-//    }
-
     override fun onCreateViewHolder(
         parent: ViewGroup,
         viewType: Int,

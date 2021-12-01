@@ -2,7 +2,7 @@
     <string name="app_name">word장</string>
     <!-- TODO: Remove or change this placeholder text -->
 
-    <string-array name="Day1_word">
+    <string-array name="Day01Word">
         <item>résumé</item>
         <item>opening</item>
         <item>applicant</item>
@@ -43,6 +43,1126 @@
         <item>certification</item>
         <item>occupation</item>
         <item>wage</item>
+    </string-array>
+
+    <string-array name="Day02Word">
+
+        <item>attire</item>
+        <item>code</item>
+        <item>concern</item>
+        <item>policy</item>
+        <item>comply</item>
+        <item>regulation</item>
+        <item>exception</item>
+        <item>adhere</item>
+        <item>severely</item>
+        <item>refrain</item>
+
+        <item>permission</item>
+        <item>access</item>
+        <item>thoroughly</item>
+        <item>revise</item>
+        <item>approach</item>
+        <item>approval</item>
+        <item>form</item>
+        <item>immediately</item>
+        <item>inspection</item>
+        <item>arrangement</item>
+
+        <item>procedure</item>
+        <item>negative</item>
+        <item>mandate</item>
+        <item>effect</item>
+        <item>drastically</item>
+        <item>according to</item>
+        <item>enable</item>
+        <item>standard</item>
+        <item>constant</item>
+        <item>act</item>
+
+        <item>compensation</item>
+        <item>ban</item>
+        <item>obligation</item>
+        <item>authorize</item>
+        <item>prohibit</item>
+        <item>abolish</item>
+        <item>enforce</item>
+        <item>habit</item>
+        <item>legislation</item>
+        <item>restrict</item>
+
+    </string-array>
+    <string-array name="Day03Word">
+
+        <item>accustomed</item>
+        <item>corporation</item>
+        <item>demanding</item>
+        <item>colleague</item>
+        <item>division</item>
+        <item>request</item>
+        <item>efficiently</item>
+        <item>manage</item>
+        <item>submit</item>
+        <item>directly</item>
+
+        <item>remind</item>
+        <item>instruct</item>
+        <item>deadline</item>
+        <item>sample</item>
+        <item>notify</item>
+        <item>perform</item>
+        <item>monitor</item>
+        <item>deserve</item>
+        <item>assignment</item>
+        <item>entire</item>
+
+        <item>release</item>
+        <item>extension</item>
+        <item>electronically</item>
+        <item>attendance</item>
+        <item>absolutely</item>
+        <item>delegate</item>
+        <item>attentively</item>
+        <item>supervision</item>
+        <item>workshop</item>
+        <item>draw</item>
+
+        <item>revision</item>
+        <item>reluctantly</item>
+        <item>acquaint</item>
+        <item>convey</item>
+        <item>check</item>
+        <item>headquarters</item>
+        <item>file</item>
+        <item>oversee</item>
+        <item>involved</item>
+        <item>concentrate</item>
+
+    </string-array>
+    <string-array name="Day04Word">
+
+        <item>lax</item>
+        <item>procrastinate</item>
+        <item>combined</item>
+        <item>accomplish</item>
+        <item>voluntarily</item>
+        <item>undertake</item>
+        <item>assume</item>
+        <item>occasionally</item>
+        <item>employee</item>
+        <item>assist</item>
+
+        <item>satisfied</item>
+        <item>manner</item>
+        <item>responsible</item>
+        <item>conduct</item>
+        <item>adjust</item>
+        <item>personnel</item>
+        <item>agree</item>
+        <item>supervise</item>
+        <item>coworker</item>
+        <item>direct</item>
+
+        <item>confidential</item>
+        <item>assign</item>
+        <item>leading</item>
+        <item>formal</item>
+        <item>remove</item>
+        <item>collect</item>
+        <item>coordinate</item>
+        <item>hardly</item>
+        <item>abstract</item>
+        <item>directory</item>
+
+        <item>accountable</item>
+        <item>skillfully</item>
+        <item>exclusive</item>
+        <item>intention</item>
+        <item>transform</item>
+        <item>respectful</item>
+        <item>duplicate</item>
+        <item>contrary</item>
+        <item>disturbing</item>
+        <item>engage</item>
+
+        <item>foster</item>
+        <item>neutrality</item>
+        <item>widely</item>
+        <item>externally</item>
+
+    </string-array>
+    <string-array name="Day05Word">
+
+        <item>sophisticated</item>
+        <item>timely</item>
+        <item>realistically</item>
+        <item>promptly</item>
+        <item>accessible</item>
+        <item>implement</item>
+        <item>feedback</item>
+        <item>outstanding</item>
+        <item>inform</item>
+        <item>replacement</item>
+
+        <item>announcement</item>
+        <item>department</item>
+        <item>permanently</item>
+        <item>fulfill</item>
+        <item>outline</item>
+        <item>explain</item>
+        <item>contain</item>
+        <item>compile</item>
+        <item>subsequent</item>
+        <item>overview</item>
+
+        <item>provider</item>
+        <item>matter</item>
+        <item>expertise</item>
+        <item>demonstrate</item>
+        <item>remainder</item>
+        <item>essential</item>
+        <item>divide</item>
+        <item>major</item>
+        <item>compliance</item>
+        <item>clarify</item>
+
+        <item>face</item>
+        <item>follow</item>
+        <item>aspect</item>
+        <item>apparently</item>
+        <item>aware</item>
+        <item>extended</item>
+        <item>accidentally</item>
+        <item>advisable</item>
+        <item>concerned</item>
+        <item>speak</item>
+
+    </string-array>
+    <string-array name="Day06Word">
+
+        <item>rest</item>
+        <item>exhibition</item>
+        <item>celebrity</item>
+        <item>live</item>
+        <item>improvise</item>
+        <item>popular</item>
+        <item>donation</item>
+        <item>alumni</item>
+        <item>present</item>
+        <item>admission</item>
+
+        <item>banquet</item>
+        <item>anniversary</item>
+        <item>required</item>
+        <item>succeed</item>
+        <item>collection</item>
+        <item>fund-raising</item>
+        <item>resume</item>
+        <item>issue</item>
+        <item>subscription</item>
+        <item>appear</item>
+
+        <item>accompany</item>
+        <item>edition</item>
+        <item>specifically</item>
+        <item>anonymous</item>
+        <item>commit</item>
+        <item>informative</item>
+        <item>audience</item>
+        <item>author</item>
+        <item>note</item>
+        <item>antique</item>
+
+        <item>manuscript</item>
+        <item>beneficial</item>
+        <item>upcoming</item>
+        <item>lend</item>
+        <item>current</item>
+        <item>local</item>
+        <item>variety</item>
+        <item>advocate</item>
+        <item>contributor</item>
+        <item>defy</item>
+
+        <item>fascinating</item>
+        <item>showing</item>
+
+    </string-array>
+    <string-array name="Day07Word">
+
+        <item>survey</item>
+        <item>analysis</item>
+        <item>respondent</item>
+        <item>monopoly</item>
+        <item>competiton</item>
+        <item>consistently</item>
+        <item>demand</item>
+        <item>do one`s utmost</item>
+        <item>expand</item>
+        <item>advanced</item>
+
+        <item>postpone</item>
+        <item>additional</item>
+        <item>appreciate</item>
+        <item>demonstration</item>
+        <item>buy</item>
+        <item>examine</item>
+        <item>effective</item>
+        <item>like</item>
+        <item>especially</item>
+        <item>closely</item>
+
+        <item>reserve</item>
+        <item>cooperate</item>
+        <item>very</item>
+        <item>consecutive</item>
+        <item>expectation</item>
+        <item>publicize</item>
+        <item>raise</item>
+        <item>extremely</item>
+        <item>affect</item>
+        <item>target</item>
+
+        <item>campaign</item>
+        <item>probable</item>
+        <item>focus</item>
+        <item>seasonal</item>
+        <item>impact</item>
+        <item>comparison</item>
+        <item>gap</item>
+        <item>mounting</item>
+        <item>reflective</item>
+
+
+    </string-array>
+    <string-array name="Day08Word">
+
+        <item>advertisement</item>
+        <item>marginal</item>
+        <item>customer</item>
+        <item>influence</item>
+        <item>instantly</item>
+        <item>creative</item>
+        <item>aggressively</item>
+        <item>aim</item>
+        <item>strategy</item>
+        <item>indicate</item>
+
+        <item>attract</item>
+        <item>experience</item>
+        <item>analyze</item>
+        <item>introduce</item>
+        <item>advise</item>
+        <item>subscribe</item>
+        <item>absence</item>
+        <item>means</item>
+        <item>prefer</item>
+        <item>advantage</item>
+
+        <item>forward</item>
+        <item>contemporary</item>
+        <item>discussion</item>
+        <item>initial</item>
+        <item>steadily</item>
+        <item>necessarily</item>
+        <item>resolve</item>
+        <item>detect</item>
+        <item>intentsify</item>
+        <item>favorably</item>
+
+        <item>cover</item>
+        <item>less</item>
+        <item>majority</item>
+        <item>adopt</item>
+        <item>largely</item>
+        <item>disregard</item>
+        <item>effort</item>
+        <item>incentive</item>
+        <item>need</item>
+        <item>mastermind</item>
+
+    </string-array>
+    <string-array name="Day09Word">
+
+        <item>stagnant</item>
+        <item>dramatically</item>
+        <item>brisk</item>
+        <item>unstable</item>
+        <item>rapidly</item>
+        <item>soar</item>
+        <item>assert</item>
+        <item>boost</item>
+        <item>analyst</item>
+        <item>potential</item>
+
+        <item>pleased</item>
+        <item>remain</item>
+        <item>limited</item>
+        <item>costly</item>
+        <item>particular</item>
+        <item>drastic</item>
+        <item>evenly</item>
+        <item>evidence</item>
+        <item>prospect</item>
+        <item>lead</item>
+
+        <item>fall</item>
+        <item>period</item>
+        <item>indicator</item>
+        <item>industry</item>
+        <item>likely</item>
+        <item>boom</item>
+        <item>director</item>
+        <item>substitute</item>
+        <item>consequence</item>
+        <item>fairly</item>
+
+        <item>economical</item>
+        <item>thrive</item>
+        <item>implication</item>
+        <item>wane</item>
+        <item>prosperity</item>
+        <item>depression</item>
+        <item>dwindle</item>
+        <item>impede</item>
+        <item>promising</item>
+        <item>adversity</item>
+
+    </string-array>
+    <string-array name="Day10Word">
+
+        <item>puschase</item>
+        <item>price</item>
+        <item>affordable</item>
+        <item>exactly</item>
+        <item>installment</item>
+        <item>notice</item>
+        <item>charge</item>
+        <item>experienced</item>
+        <item>instruction</item>
+        <item>expert</item>
+
+        <item>warranty</item>
+        <item>refund</item>
+        <item>subscriber</item>
+        <item>delivery</item>
+        <item>receipt</item>
+        <item>carefully</item>
+        <item>offer</item>
+        <item>benefit</item>
+        <item>exclusively</item>
+        <item>description</item>
+
+        <item>relatively</item>
+        <item>preparation</item>
+        <item>spare</item>
+        <item>area</item>
+        <item>clearance</item>
+        <item>alter</item>
+        <item>apply</item>
+        <item>mutually</item>
+        <item>method</item>
+        <item>acceptable</item>
+
+        <item>desire</item>
+        <item>redeemable</item>
+        <item>officially</item>
+        <item>consumption</item>
+        <item>qualify</item>
+        <item>fabric</item>
+        <item>auction</item>
+        <item>authentic</item>
+        <item>valid</item>
+        <item>vandor</item>
+
+    </string-array>
+    <string-array name="Day11Word">
+
+        <item>research</item>
+        <item>devise</item>
+        <item>revolutionary</item>
+        <item>innovative</item>
+        <item>feature</item>
+        <item>inspiration</item>
+        <item>sufficiently</item>
+        <item>patent</item>
+        <item>envision</item>
+        <item>extend</item>
+
+        <item>following</item>
+        <item>intend</item>
+        <item>grant</item>
+        <item>allow</item>
+        <item>inspect</item>
+        <item>improve</item>
+        <item>increasingly</item>
+        <item>invest</item>
+        <item>various</item>
+        <item>upgrade</item>
+
+        <item>manual</item>
+        <item>explore</item>
+        <item>response</item>
+        <item>appearance</item>
+        <item>successful</item>
+        <item>hold</item>
+        <item>advance</item>
+        <item>reilable</item>
+        <item>quality</item>
+        <item>domestic</item>
+
+        <item>development</item>
+        <item>availability</item>
+        <item>update</item>
+        <item>accurate</item>
+        <item>complicated</item>
+        <item>accomplished</item>
+        <item>inquirt</item>
+        <item>indication</item>
+        <item>manufacturer</item>
+        <item>compatible</item>
+
+        <item>superior</item>
+        <item>absolute</item>
+        <item>broaden</item>
+        <item>corrosion</item>
+        <item>remotely</item>
+
+    </string-array>
+    <string-array name="Day12Word">
+
+        <item>equipment</item>
+        <item>automate</item>
+        <item>specification</item>
+        <item>properly</item>
+        <item>safety</item>
+        <item>precaution</item>
+        <item>operate</item>
+        <item>processing</item>
+        <item>capacity</item>
+        <item>assemble</item>
+
+        <item>utilize</item>
+        <item>place</item>
+        <item>fill</item>
+        <item>manufacturing</item>
+        <item>renovate</item>
+        <item>decision</item>
+        <item>material</item>
+        <item>success</item>
+        <item>attribute</item>
+        <item>efficiency</item>
+
+        <item>limit</item>
+        <item>tailored</item>
+        <item>component</item>
+        <item>capable</item>
+        <item>economize</item>
+        <item>flexible</item>
+        <item>comparable</item>
+        <item>produce</item>
+        <item>respectively</item>
+        <item>device</item>
+
+        <item>trim</item>
+        <item>launch</item>
+        <item>separately</item>
+        <item>expiration</item>
+        <item>maneuver</item>
+        <item>coming</item>
+        <item>damaged</item>
+        <item>prevent</item>
+        <item>power</item>
+        <item>chemical</item>
+        <item>minimize</item>
+
+    </string-array>
+    <string-array name="Day13Word">
+
+        <item>complaint</item>
+        <item>deal</item>
+        <item>argumentative</item>
+        <item>appropriately</item>
+        <item>respond</item>
+        <item>infuriate</item>
+        <item>courteous</item>
+        <item>satisfaction</item>
+        <item>inconvenience</item>
+        <item>complete</item>
+
+        <item>specific</item>
+        <item>return</item>
+        <item>replace</item>
+        <item>presentation</item>
+        <item>evaluation</item>
+        <item>confident</item>
+        <item>cause</item>
+        <item>commentary</item>
+        <item>notification</item>
+        <item>apologize</item>
+
+        <item>interact</item>
+        <item>certain</item>
+        <item>commitment</item>
+        <item>applaud</item>
+        <item>biography</item>
+        <item>critical</item>
+        <item>depend on</item>
+        <item>combine</item>
+        <item>priority</item>
+        <item>observe</item>
+
+        <item>defective</item>
+        <item>reflect</item>
+        <item>attitude</item>
+        <item>disappoint</item>
+        <item>inquire</item>
+        <item>insert</item>
+        <item>disclose</item>
+        <item>guarantee</item>
+        <item>politely</item>
+        <item>seriously</item>
+
+    </string-array>
+    <string-array name="Day14Word">
+
+        <item>international</item>
+        <item>attraction</item>
+        <item>itinerary</item>
+        <item>exotic</item>
+        <item>diverse</item>
+        <item>superb</item>
+        <item>baggage</item>
+        <item>destination</item>
+        <item>missing</item>
+        <item>locate</item>
+
+        <item>approximately</item>
+        <item>duty</item>
+        <item>process</item>
+        <item>board</item>
+        <item>comfortable</item>
+        <item>declare</item>
+        <item>specify</item>
+        <item>depart</item>
+        <item>emergency</item>
+        <item>passenger</item>
+
+        <item>outgoing</item>
+        <item>tightly</item>
+        <item>tour</item>
+        <item>carrier</item>
+        <item>customarily</item>
+        <item>confuse</item>
+        <item>arrive</item>
+        <item>brochure</item>
+        <item>involve</item>
+        <item>ship</item>
+
+        <item>suitcase</item>
+        <item>unavailable</item>
+        <item>fill out/in</item>
+        <item>customs</item>
+        <item>away</item>
+        <item>dramatic</item>
+        <item>hospitality</item>
+        <item>indulge</item>
+        <item>proximity</item>
+        <item>seating</item>
+
+        <item>unlimited</item>
+        <item>simply</item>
+        <item>basides</item>
+        <item>traditionally</item>
+
+    </string-array>
+    <string-array name="Day15Word">
+
+        <item>proposal</item>
+        <item>alliance</item>
+        <item>stipulation</item>
+        <item>term</item>
+        <item>compromise</item>
+        <item>negotiation</item>
+        <item>agreement</item>
+        <item>deadlock</item>
+        <item>review</item>
+        <item>contract</item>
+
+        <item>signature</item>
+        <item>originally</item>
+        <item>direction</item>
+        <item>initially</item>
+        <item>expire</item>
+        <item>collaborate</item>
+        <item>dedicate</item>
+        <item>revised</item>
+        <item>imperative</item>
+        <item>cooperatively</item>
+
+        <item>commission</item>
+        <item>omit</item>
+        <item>conflict</item>
+        <item>renew</item>
+        <item>proficient</item>
+        <item>confidentially</item>
+        <item>dispute</item>
+        <item>objection</item>
+        <item>define</item>
+        <item>impression</item>
+
+        <item>security</item>
+        <item>option</item>
+        <item>proceed</item>
+        <item>modify</item>
+        <item>narrow</item>
+        <item>bid</item>
+        <item>settle</item>
+        <item>terminate</item>
+        <item>challenging</item>
+        <item>foundation</item>
+
+        <item>pending</item>
+
+    </string-array>
+    <string-array name="Day16Word">
+
+        <item>completely</item>
+        <item>refuse</item>
+        <item>temporarily</item>
+        <item>dealer</item>
+        <item>bulk</item>
+        <item>inventory</item>
+        <item>short</item>
+        <item>cost</item>
+        <item>selection</item>
+        <item>commercial</item>
+
+        <item>order</item>
+        <item>provide</item>
+        <item>contact</item>
+        <item>invoice</item>
+        <item>move</item>
+        <item>supply</item>
+        <item>discount</item>
+        <item>distribute</item>
+        <item>acquisition</item>
+        <item>assure</item>
+
+        <item>subject</item>
+        <item>seek</item>
+        <item>satisfactory</item>
+        <item>confirmation</item>
+        <item>unable</item>
+        <item>payment</item>
+        <item>measure</item>
+        <item>bargain</item>
+        <item>stock</item>
+        <item>affordability</item>
+
+        <item>clientele</item>
+        <item>acclaim</item>
+        <item>represent</item>
+        <item>rating</item>
+        <item>encompass</item>
+        <item>finalize</item>
+        <item>market</item>
+        <item>retail</item>
+        <item>commodity</item>
+        <item>quote</item>
+
+        <item>consignment</item>
+
+    </string-array>
+    <string-array name="Day17Word">
+
+        <item>fragile</item>
+        <item>perishable</item>
+        <item>deliver</item>
+        <item>ensure</item>
+        <item>courier</item>
+        <item>carton</item>
+        <item>address</item>
+        <item>shipment</item>
+        <item>particularly</item>
+        <item>adequately</item>
+
+        <item>article</item>
+        <item>efficient</item>
+        <item>agency</item>
+        <item>enclose</item>
+        <item>careful</item>
+        <item>pick up</item>
+        <item>carry</item>
+        <item>attach</item>
+        <item>formerly</item>
+        <item>package</item>
+
+        <item>react</item>
+        <item>content</item>
+        <item>convenience</item>
+        <item>acknowledge</item>
+        <item>caution</item>
+        <item>correspondence</item>
+        <item>separate</item>
+        <item>remarkable</item>
+        <item>handle</item>
+        <item>warehouse</item>
+
+        <item>impose</item>
+        <item>storage</item>
+        <item>detach</item>
+        <item>envelope</item>
+        <item>exclusion</item>
+        <item>recipient</item>
+        <item>affix</item>
+        <item>incorrect</item>
+        <item>oblige</item>
+        <item>step</item>
+
+        <item>distinctive</item>
+        <item>discreet</item>
+
+    </string-array>
+    <string-array name="Day18Word">
+
+        <item>check in</item>
+        <item>compensate</item>
+        <item>complimentary</item>
+        <item>chef</item>
+        <item>container</item>
+        <item>elegant</item>
+        <item>flavor</item>
+        <item>accommodate</item>
+        <item>available</item>
+        <item>reception</item>
+
+        <item>in advance</item>
+        <item>refreshments</item>
+        <item>make</item>
+        <item>cater</item>
+        <item>reservation</item>
+        <item>beverage</item>
+        <item>confirm</item>
+        <item>cancel</item>
+        <item>rate</item>
+        <item>conveniently</item>
+
+        <item>decorate</item>
+        <item>information</item>
+        <item>retain</item>
+        <item>atmosphere</item>
+        <item>cuisine</item>
+        <item>sequence</item>
+        <item>extensive</item>
+        <item>prior</item>
+        <item>book</item>
+        <item>amenity</item>
+
+        <item>belongings</item>
+        <item>entirely</item>
+        <item>ease</item>
+        <item>ingredient</item>
+        <item>sip</item>
+        <item>stir</item>
+        <item>choice</item>
+        <item>complication</item>
+        <item>freshness</item>
+        <item>occupancy</item>
+
+        <item>spot</item>
+
+    </string-array>
+    <string-array name="Day19Word">
+
+        <item>decline</item>
+        <item>markedly</item>
+        <item>increase</item>
+        <item>revenue</item>
+        <item>projection</item>
+        <item>substantial</item>
+        <item>anticipate</item>
+        <item>significantly</item>
+        <item>estimate</item>
+        <item>shift</item>
+
+        <item>fee</item>
+        <item>production</item>
+        <item>sale</item>
+        <item>impressive</item>
+        <item>representative</item>
+        <item>recent</item>
+        <item>exceed</item>
+        <item>improvement</item>
+        <item>employer</item>
+        <item>regular</item>
+
+        <item>summarize</item>
+        <item>typically</item>
+        <item>whole</item>
+        <item>growth</item>
+        <item>figure</item>
+        <item>steady</item>
+        <item>frequent</item>
+        <item>achieve</item>
+        <item>assumption</item>
+        <item>share</item>
+
+        <item>encouraging</item>
+        <item>incur</item>
+        <item>slightly</item>
+        <item>profit</item>
+        <item>reliant</item>
+        <item>illustrate</item>
+        <item>inaccurate</item>
+        <item>percentage</item>
+        <item>reduce</item>
+        <item>tend</item>
+
+        <item>beyond</item>
+
+    </string-array>
+    <string-array name="Day20Word">
+
+        <item>audit</item>
+        <item>accounting</item>
+        <item>budget</item>
+        <item>financial</item>
+        <item>curtail</item>
+        <item>deficit</item>
+        <item>recently</item>
+        <item>substantially</item>
+        <item>committee</item>
+        <item>frequently</item>
+
+        <item>capability</item>
+        <item>proceeds</item>
+        <item>reimburse</item>
+        <item>considerably</item>
+        <item>adequate</item>
+        <item>total</item>
+        <item>allocate</item>
+        <item>inspector</item>
+        <item>preferred</item>
+        <item>quarter</item>
+
+        <item>interrupt</item>
+        <item>browse</item>
+        <item>prompt</item>
+        <item>deduct</item>
+        <item>measurement</item>
+        <item>shorten</item>
+        <item>amend</item>
+        <item>calculate</item>
+        <item>exempt</item>
+        <item>deficient</item>
+
+        <item>compare</item>
+        <item>fortunate</item>
+        <item>expenditure</item>
+        <item>accurately</item>
+        <item>worth</item>
+        <item>excess</item>
+        <item>fiscal</item>
+        <item>incidental</item>
+        <item>inflation</item>
+        <item>liable</item>
+
+        <item>spend</item>
+        <item>turnover</item>
+
+    </string-array>
+    <string-array name="Day21Word">
+
+        <item>announce</item>
+        <item>interested</item>
+        <item>active</item>
+        <item>accept</item>
+        <item>foresee</item>
+        <item>expansion</item>
+        <item>relocate</item>
+        <item>competitor</item>
+        <item>asset</item>
+        <item>contribute</item>
+
+        <item>dedicated</item>
+        <item>misplace</item>
+        <item>considerable</item>
+        <item>last</item>
+        <item>emerge</item>
+        <item>grow</item>
+        <item>select</item>
+        <item>merge</item>
+        <item>imply</item>
+        <item>vital</item>
+
+        <item>persist</item>
+        <item>independent</item>
+        <item>force</item>
+        <item>establish</item>
+        <item>initiate</item>
+        <item>enhance</item>
+        <item>renowned</item>
+        <item>informed</item>
+        <item>minutes</item>
+        <item>waive</item>
+
+        <item>reach</item>
+        <item>authority</item>
+        <item>acquire</item>
+        <item>surpass</item>
+        <item>run</item>
+        <item>improbable</item>
+        <item>edge</item>
+        <item>simultaneously</item>
+        <item>reveal</item>
+        <item>productivity</item>
+
+        <item>uncertain</item>
+        <item>premier</item>
+
+    </string-array>
+    <string-array name="Day22Word">
+
+        <item>agenda</item>
+        <item>convene</item>
+        <item>refute</item>
+        <item>coordination</item>
+        <item>unanimous</item>
+        <item>convince</item>
+        <item>consensus</item>
+        <item>defer</item>
+        <item>usually</item>
+        <item>reschedule</item>
+
+        <item>meeting</item>
+        <item>determine</item>
+        <item>report</item>
+        <item>comment</item>
+        <item>phase</item>
+        <item>approve</item>
+        <item>enclosed</item>
+        <item>easy</item>
+        <item>record</item>
+        <item>suggestion</item>
+
+        <item>attention</item>
+        <item>object</item>
+        <item>coincidentally</item>
+        <item>crowded</item>
+        <item>undergo</item>
+        <item>outcome</item>
+        <item>narrowly</item>
+        <item>differ</item>
+        <item>discuss</item>
+        <item>give</item>
+
+        <item>brief</item>
+        <item>distract</item>
+        <item>emphasis</item>
+        <item>press</item>
+        <item>organize</item>
+        <item>mention</item>
+        <item>persuasive</item>
+        <item>understanding</item>
+        <item>adjourn</item>
+        <item>constructive</item>
+
+        <item>preside</item>
+        <item>irrelevant</item>
+        <item>constraint</item>
+        <item>condensed</item>
+        <item>endorse</item>
+        <item>punctually</item>
+
+    </string-array>
+    <string-array name="Day23Word">
+
+        <item>host</item>
+        <item>annual</item>
+        <item>purpose</item>
+        <item>enroll</item>
+        <item>lecture</item>
+        <item>participant</item>
+        <item>attend</item>
+        <item>encourage</item>
+        <item>leave</item>
+        <item>recommendation</item>
+
+        <item>conference</item>
+        <item>schedule</item>
+        <item>include</item>
+        <item>result</item>
+
+
+
+    </string-array>
+    <string-array name="Day24Word">
+
+    </string-array>
+    <string-array name="Day25Word">
+
+    </string-array>
+    <string-array name="Day26Word">
+
+    </string-array>
+    <string-array name="Day27Word">
+
+    </string-array>
+    <string-array name="Day28Word">
+
+    </string-array>
+    <string-array name="Day29Word">
+
+    </string-array>
+
+    <string-array name="Day30Word">
+        <item>fatigue</item>
+        <item>checkup</item>
+        <item>symptom></item>
+        <item>physician</item>
+        <item>diagnosis</item>
+        <item>prescribe</item>
+        <item>recovery</item>
+        <item>recognize</item>
+        <item>join</item>
+        <item>comprehensive</item>
+
+        <item>participate</item>
+        <item>recommend</item>
+        <item>necessary</item>
+        <item>ability</item>
+        <item>operation</item>
+        <item>cleanliness</item>
+        <item>duration</item>
+        <item>examination</item>
+        <item>elimiante</item>
+        <item>easily</item>
+
+        <item>dental</item>
+        <item>dietary</item>
+        <item>related</item>
+        <item>transmit</item>
+        <item>periodically</item>
+        <item>reaction</item>
+        <item>simple</item>
+        <item>coverage</item>
+        <item>exposure</item>
+        <item>pharmaceutical</item>
+
+        <item>premium</item>
+        <item>relieve</item>
+        <item>combination</item>
+        <item>concious</item>
+        <item>deprivation</item>
+        <item>health</item>
+        <item>induce</item>
+        <item>insurance</item>
+        <item>nutrition</item>
+        <item>prevantion</item>
+
+        <item>susceptible</item>
+        <item>uncomfortably</item>
     </string-array>
 
     <string-array name="Day1_meaning">
@@ -86,5 +1206,97 @@
         <item>모집하다</item>
         <item>직업</item>
         <item>임금, 급료</item>
+    </string-array>
+
+    <string-array name="Day2_meaning">
+        <item>이력서</item>
+        <item>공석, 결원; 개장, 개시</item>
+        <item>지원자, 신청자</item>
+        <item>필요조건, 요건</item>
+        <item>(필요, 요구 등을)만족시키다</item>
+        <item>자격 있는, 적격의</item>
+        <item>후보자, 지원자</item>
+        <item>확신, 자신, 신임</item>
+        <item>매우, 대단히</item>
+        <item>전문적인, 직업의</item>
+        <item>면접, 면접을 보다</item>
+        <item>고용하다</item>
+        <item>교육, 훈련</item>
+        <item>추천서; 참고</item>
+        <item>일자리, 직책, 두다</item>
+        <item>성취, 달성</item>
+        <item>인상 깊게 생각하는, 감명을 받은</item>
+        <item>훌륭한, 탁월한</item>
+        <item>자격이 있는, 적격의</item>
+        <item>알아보다, 확인하다</item>
+        <item>관련시키다</item>
+        <item>조건</item>
+        <item>고용</item>
+        <item>~이 없다, 부족</item>
+        <item>관리의</item>
+        <item>성실한</item>
+        <item>익숙한, 친숙한</item>
+        <item>숙달, 능숙</item>
+        <item>장래의, 미래의</item>
+        <item>관심을 끌다, 매력적이다</item>
+        <item>~을 전공하다, 전문적으로 다루다</item>
+        <item>걱정하는, 염려하는</item>
+        <item>고문, 컨설턴트</item>
+        <item>자격을 주다</item>
+        <item>학위</item>
+        <item>임금 대장, 급료 명부</item>
+        <item>모집하다</item>
+        <item>모집하다</item>
+        <item>직업</item>
+        <item>임금, 급료</item>
+    </string-array>
+
+    <string-array name="Day30_meaning">
+        <item>피로</item>
+        <item>건강 진단</item>
+        <item>증상</item>
+        <item>내과 의사</item>
+        <item>진단</item>
+        <item>(약을) 처방하다</item>
+        <item>회복, 쾌유</item>
+        <item>인정하다, 알아보다</item>
+        <item>~에 가입하다</item>
+        <item>종합적인, 포괄적인</item>
+
+        <item>참여하다, 참가하다</item>
+        <item>권고하다, 추천하다</item>
+        <item>필요한</item>
+        <item>능력</item>
+        <item>수술</item>
+        <item>청결</item>
+        <item>지속 기간, 지속</item>
+        <item>진찰, 검사</item>
+        <item>제거하다</item>
+        <item>쉽게</item>
+
+        <item>치과의</item>
+        <item>식이 요법의, 규정식의</item>
+        <item>관련된</item>
+        <item>전염시키다</item>
+        <item>주기적으로</item>
+        <item>반응</item>
+        <item>단순한</item>
+        <item>(보험의) 보상 범위, (신문 등의) 보도, 취재 범위</item>
+        <item>노출</item>
+        <item>제약의, 약학의</item>
+
+        <item>보험료</item>
+        <item>완화시키다</item>
+        <item>결합, 연합</item>
+        <item>알고 있는, 자각하고 있는</item>
+        <item>박탈, 상실</item>
+        <item>건강; (사회/기관의) 번영, 안녕</item>
+        <item>유발하다</item>
+        <item>보험</item>
+        <item>영양</item>
+        <item>예방</item>
+
+        <item>~에 감염되기 쉬운, 영향을 받기 쉬운</item>
+        <item>불쾌하게, 불편하게</item>
     </string-array>
 </resources>
