@@ -10,7 +10,6 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.widget.Toolbar
-import androidx.drawerlayout.widget.DrawerLayout
 import com.example.word.fragment.Fragment1
 import com.example.word.fragment.Fragment3
 import com.example.word.fragment.Fragment4
@@ -18,20 +17,13 @@ import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInClient
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions
 import com.google.android.material.bottomnavigation.BottomNavigationView
-import com.google.android.material.navigation.NavigationView
 import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.main.activity_main_page.*
 import com.example.word.fragment.Fragment2
-import kotlinx.android.synthetic.main.alert_popup.*
 import kotlinx.android.synthetic.main.drawer_toolbar.*
-import kotlin.math.log
 
 class MainPage : AppCompatActivity()
     ,BottomNavigationView.OnNavigationItemSelectedListener{     // bottom navigation view
-
-    // navigation drawer의 drawerLayout과 NavigationView을 이용하기 위한 변수
-    lateinit var navigationView: NavigationView
-    lateinit var drawerLayout: DrawerLayout
 
     // 로그아웃 구현을 위한 변수
     var auth : FirebaseAuth?= null
@@ -99,25 +91,25 @@ class MainPage : AppCompatActivity()
             R.id.home -> {
                 supportFragmentManager.beginTransaction().replace(R.id.frame_lay, Fragment1())
                     .commitAllowingStateLoss()
-                text.text = "(word장)홈"
+                text.text = "홈"
                 return true
             }
             R.id.word -> {
                 supportFragmentManager.beginTransaction().replace(R.id.frame_lay, Fragment2())
                     .commitAllowingStateLoss()
-                text.text = "(word장)단어"
+                text.text = "단어"
                 return true
             }
             R.id.memo -> {
                 supportFragmentManager.beginTransaction().replace(R.id.frame_lay, Fragment3())
                     .commitAllowingStateLoss()
-                text.text = "(word장)메모"
+                text.text = "메모"
                 return true
             }
             R.id.profile -> {
                 supportFragmentManager.beginTransaction().replace(R.id.frame_lay, Fragment4())
                     .commitAllowingStateLoss()
-                text.text = "(word장)프로필"
+                text.text = "프로필"
                 return true
             }
         }

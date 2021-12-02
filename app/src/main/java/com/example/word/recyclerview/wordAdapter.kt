@@ -9,7 +9,6 @@ import android.widget.TextView
 import androidx.core.content.ContextCompat.startActivity
 import androidx.recyclerview.widget.RecyclerView
 import com.example.word.R
-import com.example.word.wordRecyclerview.ClickCallBackListener
 import com.example.word.wordRecyclerview.vocabularyActivity
 
 

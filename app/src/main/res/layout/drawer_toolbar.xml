@@ -20,7 +20,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="left"
-                android:text="(word장)홈"
+                android:text="홈"
                 android:textColor="@color/black"
                 android:textSize="20dp"/>
 
