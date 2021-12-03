@@ -3,6 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/drawable/menu_selector_color.xml" value="0.2953125" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/drawable/round.xml" value="0.2953125" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/drawable/round_c.xml" value="0.2953125" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/drawable/round_min.xml" value="0.2953125" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/activity_fragment1.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/activity_fragment2.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/activity_fragment3.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/activity_fragment4.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/activity_main.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/activity_main_page.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/activity_recycler_view.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/activity_vocabulary.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/alert_popup.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/drawer_toolbar.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/item_recycler.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/layout/voca_item.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/choi kangmin/AndroidStudioProjects/word (2)/app/src/main/res/menu/drawer_navigation.xml" value="0.2791666666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21574074074074073" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/drawable/btm_menu_line.xml" value="0.25555555555555554" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21574074074074073" />
@@ -10,6 +27,7 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/drawable/menu_selector_color.xml" value="0.2111111111111111" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/drawable/navi_menu.xml" value="0.265625" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/drawable/round.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/drawable/round_c.xml" value="0.265625" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/drawable/round_min.xml" value="0.265625" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/drawable/round_top.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/drawable/round_user.xml" value="0.265625" />
@@ -34,6 +52,7 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/layout/fragment_blank.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/layout/fragment_data.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/layout/item_list.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/layout/item_recycler.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/layout/item_text.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/layout/recyclerview_main.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/word/app/src/main/res/layout/voca_item.xml" value="0.24947916666666667" />

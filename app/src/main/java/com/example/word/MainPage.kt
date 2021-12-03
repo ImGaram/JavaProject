@@ -20,11 +20,19 @@ import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.main.activity_main_page.*
 import com.example.word.fragment.Fragment2
+import kotlinx.android.synthetic.main.activity_fragment1.*
+import kotlinx.android.synthetic.main.activity_fragment4.*
 import kotlinx.android.synthetic.main.drawer_toolbar.*
+import java.text.SimpleDateFormat
 
 class MainPage : AppCompatActivity()
     ,BottomNavigationView.OnNavigationItemSelectedListener{     // bottom navigation view
 
+
+//
+//    set_profile.setOnClickListener {
+//        startActivity(Intent(this,MainActivity::class.java))
+//    }
     // 로그아웃 구현을 위한 변수
     var auth : FirebaseAuth?= null
     var googleSignInClient : GoogleSignInClient?= null
@@ -62,6 +70,8 @@ class MainPage : AppCompatActivity()
         alertDialog.show()
     }
 
+    val a = SimpleDateFormat("yyyy/mm/dd").toString()
+
     // 로그아웃 구현
     private fun logout() {
         // 구글 로그아웃을 위해 로그인 세션 가져오기
@@ -91,25 +101,26 @@ class MainPage : AppCompatActivity()
             R.id.home -> {
                 supportFragmentManager.beginTransaction().replace(R.id.frame_lay, Fragment1())
                     .commitAllowingStateLoss()
-                text.text = "홈"
+
+                text.text = "Word장"
                 return true
             }
             R.id.word -> {
                 supportFragmentManager.beginTransaction().replace(R.id.frame_lay, Fragment2())
                     .commitAllowingStateLoss()
-                text.text = "단어"
+                text.text = "Word장 - 단어"
                 return true
             }
             R.id.memo -> {
                 supportFragmentManager.beginTransaction().replace(R.id.frame_lay, Fragment3())
                     .commitAllowingStateLoss()
-                text.text = "메모"
+                text.text = "Word장 - 메모"
                 return true
             }
             R.id.profile -> {
                 supportFragmentManager.beginTransaction().replace(R.id.frame_lay, Fragment4())
                     .commitAllowingStateLoss()
-                text.text = "프로필"
+                text.text = "Word장 - 프로필 / 설정"
                 return true
             }
         }

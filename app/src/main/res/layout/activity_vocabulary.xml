@@ -5,14 +5,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/mainbg"
+    android:background="#FFE0DB"
     tools:context=".wordRecyclerview.vocabularyActivity">
 
     <RelativeLayout
         android:id="@+id/relativeLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/main_green"
+        android:background="@color/main_dahong"
         android:minHeight="?attr/actionBarSize"
         tools:ignore="MissingConstraints">
 
@@ -22,21 +22,20 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
-            android:layout_marginStart="16dp"
+            android:layout_marginStart="25dp"
             android:layout_marginTop="13dp"
-            android:text="단어"
+            android:text="Word장 - 단어"
             android:textColor="@color/black"
-            android:textSize="20dp"
-            android:textStyle="bold" />
+            android:textSize="20dp" />
 
         <ImageView
             android:id="@+id/back_img"
-            android:layout_width="45dp"
-            android:layout_height="43dp"
+            android:layout_width="33dp"
+            android:layout_height="42dp"
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
-            android:layout_marginTop="4dp"
-            android:layout_marginEnd="22dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="34dp"
             android:src="@drawable/back" />
     </RelativeLayout>
 
@@ -44,10 +43,22 @@
         android:id="@+id/voca_recyclerview"
         android:layout_width="match_parent"
         android:layout_height="675dp"
+        android:layout_marginTop="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/relativeLayout"
         tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/day_to"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:text="DAY_1"
+        android:textSize="19dp"
+        app:layout_constraintBottom_toTopOf="@+id/voca_recyclerview"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/relativeLayout" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
