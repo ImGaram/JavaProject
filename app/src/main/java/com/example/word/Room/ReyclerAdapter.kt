@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.word.databinding.ItemRecyclerBinding
 import java.text.SimpleDateFormat
 
-class RecyclerAdapter(val roomMemoList:List<RoomMemo>) : RecyclerView.Adapter<RecyclerAdapter.Holder>(){
+class ReyclerAdapter(val roomMemoList:List<RoomMemo>) : RecyclerView.Adapter<ReyclerAdapter.Holder>(){
 
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): Holder {
